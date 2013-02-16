@@ -3,6 +3,8 @@ puppet.enchant.js-template
 
 前田ブロックで作成したデータを単独で実行する為のテンプレート. 9leap への投稿時などに使って下さい.
 
+[Download](https://github.com/phi1618/puppet.enchant.js-template/archive/v0.1.0.zip)
+
 `<script type="text" id="code">~</script>` で囲われている部分を
 前田ブロックの JavaScritp タブで生成されたコードに置き換えてください.
 
