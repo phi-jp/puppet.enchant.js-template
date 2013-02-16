@@ -49,3 +49,11 @@ while (false) {
     </body>
 </html>
 ```
+
+
+### Links
+
+- [前田ブロック](http://junk.wise9.jp/maedaj/)
+- [wise9 › 前田ブロックなら小学生でも90秒でゲームプログラミングが出来る!?](http://wise9.jp/archives/7773)
+- [wise9 › 前田ブロックで作れるゲームいろいろ](http://wise9.jp/archives/7831)
+- <http://junk.wise9.jp/maedaj/maedaBlock.zip>
